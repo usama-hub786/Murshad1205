@@ -1,3 +1,1 @@
-# Murshad MD 💀
-
-A powerful WhatsApp MD bot built for Usama by Jani.
+This is README.md of Murshad MD 💀 bot.
