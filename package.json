@@ -1,3 +1,4 @@
+
 {
   "name": "murshad-md-bot",
   "version": "1.0.0",
@@ -5,5 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "@hapi/boom": "^10.0.0"
+  }
 }
